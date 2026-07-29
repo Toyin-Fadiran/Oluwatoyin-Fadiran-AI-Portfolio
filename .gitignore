@@ -1,0 +1,25 @@
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Large Data & Model Weights (Uncomment/adjust as needed)
+*.sqlite
+*.h5
+*.pth
+*.pt
+*.onnx
+*.weights
+
+# OS / IDE generated files
+.DS_Store
+.vscode/
+.idea/
