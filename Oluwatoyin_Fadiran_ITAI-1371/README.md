@@ -2,7 +2,7 @@
 
 **Student**: Oluwatoyin Fadiran  
 **Course**: ITAI-1371 Machine Learning  
-**Institution**: [Your Institution Name]  
+**Institution**: Houston City College 
 **Semester**: Fall 2026
 
 ---
@@ -186,7 +186,7 @@ This portfolio demonstrates mastery of:
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [github.com/Toyin-Fadira](https://github.com/Toyin-Fadira)
+- **GitHub**: [github.com/Toyin-Fadira](https://github.com/Toyin-Fadiran)
 - **LinkedIn**: [linkedin.com/in/toyin-fadiran-75a425282](https://linkedin.com/in/toyin-fadiran-75a425282)
 
 ---
