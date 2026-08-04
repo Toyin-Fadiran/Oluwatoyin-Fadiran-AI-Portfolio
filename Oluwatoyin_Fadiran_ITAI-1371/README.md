@@ -2,7 +2,7 @@
 
 **Student**: Oluwatoyin Fadiran  
 **Course**: ITAI-1371 Machine Learning  
-**Institution**: Houston City College 
+**Institution**: Houston City College
 **Semester**: Fall 2026
 
 ---
